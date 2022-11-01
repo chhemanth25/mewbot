@@ -1,1 +1,1 @@
-The software provided in this repository is closed-source and is not meant to be made publicly available/open-source.  As a result, this software is considered "un-licensed" and standard copyright applies.  Any unauthorized access, distribution, or use is strictly prohibited.
+# Source code: Copyright (c) 2022, DittoBOT Owners
