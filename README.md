@@ -1,6 +1,4 @@
 # This repo has been seized (by Pusheon, separately from DittoBOT) as dylee has not made mewbot open source as promised on October 31st, and instead opted to say "We are not finished" and just have a lazy link to dittos repo. He was given almost 2 months to comply. I do not take kindly to source stealing. Some screenshots below.
-
-![Screenshot1](https://media.discordapp.net/attachments/970494955481079848/1037090666414604298/unknown.png)
 ![Fucking Thief](https://user-images.githubusercontent.com/117145927/199326376-fdfc368b-afa8-4f46-a9ea-98c6b375ac67.png)
 
 ## Original Code
