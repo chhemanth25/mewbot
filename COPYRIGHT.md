@@ -1,1 +1,1 @@
-# Source code: Copyright (c) 2022, DittoBOT Owners
+# Source code: Copyright (c) 2024, Mewbot User.
